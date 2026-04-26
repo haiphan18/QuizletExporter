@@ -41,3 +41,15 @@ Quizlet Exporter adds a sidebar to Quizlet that lets you export your flashcards 
 | Developer Program Policies | https://developer.chrome.com/docs/webstore/program-policies |
 | Extension quality guidelines | https://developer.chrome.com/docs/webstore/quality-guidelines |
 | Review process overview | https://developer.chrome.com/docs/webstore/review-process |
+
+## Privacy Policy for Quizlet Exporter
+
+Quizlet Exporter does not collect, store, transmit, or share any personal data.
+
+All operations are performed locally within your browser. Flashcard data read from 
+Quizlet is used only to generate the export file and is never sent to any server.
+
+User settings (theme preference, separator choice) are stored locally using Chrome's 
+built-in storage API and never leave your device.
+
+Last updated: April 2026
